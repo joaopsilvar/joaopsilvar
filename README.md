@@ -1,5 +1,7 @@
 # 👋 Olá, eu sou o João
 
+---
+
 ## 👨‍💻 Sobre mim
 
 Sou **Desenvolvedor Backend** com mais de **7 anos de experiência** no setor financeiro, especializado em **Python** e tecnologias para **backend**, **APIs robustas** e **pipelines de dados eficientes**.
