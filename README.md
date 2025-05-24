@@ -1,8 +1,8 @@
-# 👋 Olá, eu sou o João
+## 👋 Olá, eu sou o João
 
 ---
 
-## 👨‍💻 Sobre mim
+### 👨‍💻 Sobre mim
 Sou **Desenvolvedor Backend** com mais de **7 anos de experiência** no setor financeiro, especializado em **Python** e tecnologias para **backend**, **APIs robustas** e **pipelines de dados eficientes**.
 
 - 🗺️ De **Minas Gerais – Brasil**
@@ -12,29 +12,29 @@ Sou **Desenvolvedor Backend** com mais de **7 anos de experiência** no setor fi
 
 ---
 
-## 🏗️ Atuando Atualmente
+### 🏗️ Atuando Atualmente
 
 Atualmente sou **Desenvolvedor Python** no **BTG Pactual**, atuando em soluções de backend voltadas para **gestão de portfólios**.
 
 ---
 
-## 🛠️ Tecnologias e Ferramentas
+### 🛠️ Tecnologias e Ferramentas
 
-### 💾 Dados
+#### 💾 Dados
 `Python` `Pandas` `AWS` `Airflow` `SQL` 
 
-### 🕸️ Web & APIs
+#### 🕸️ Web & APIs
 `FastAPI` `Django` `JavaScript` `TypeScript`
 
-### 🛢️ Banco de Dados
+#### 🛢️ Banco de Dados
 `PostgreSQL` `MongoDB` `Redis`
 
-### ⚙️ Outros
+#### ⚙️ Outros
 `Linux` `Poetry` `SQLAlchemy` `Selenium` `PyAutoGUI` `Pydantic`
 
 ---
 
-## 🌱 Interesses Atuais
+### 🌱 Interesses Atuais
 
 - Agentes Autônomos com IA
 - LLMs & RAGs
@@ -43,7 +43,7 @@ Atualmente sou **Desenvolvedor Python** no **BTG Pactual**, atuando em soluçõe
 
 ---
 
-## 📫 Onde me encontrar
+### 📫 Onde me encontrar
 
 - [LinkedIn](#https://www.linkedin.com/in/joao-rodriguess/)  
 - 📧 Email: joaopaulosilva39.jp@gmail.com
