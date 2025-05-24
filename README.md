@@ -1,16 +1,50 @@
-## Hi there 👋
+# 👨‍💻 Sobre mim
 
-<!--
-**joaopsilvar/joaopsilvar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Sou **Desenvolvedor Backend** com mais de **7 anos de experiência** no setor financeiro, especializado em **Python** e tecnologias para **backend**, **APIs robustas** e **pipelines de dados eficientes**.
 
-Here are some ideas to get you started:
+- 🗺️ De **Minas Gerais – Brasil**
+- 🎓 Estudei **Sistemas de Informação** pela Anhanguera, com pós-graduações em **Desenvolvimento Web** pela FGV e **Desenvolvimento Full Stack** pela PUC-RS
+- 🤖 Explorando o mundo de **Agentes de IA** e **LLMs**
+- 🚀 **Apaixonado por Tecnologia e Inovação**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🏗️ Atuando Atualmente
+
+Atualmente sou **Desenvolvedor Python** no **BTG Pactual**, atuando em soluções de backend voltadas para **gestão de portfólios**.
+
+---
+
+## 🛠️ Tecnologias e Ferramentas
+
+### 💾 Dados
+`Python` `Pandas` `AWS` `Airflow` `SQL` 
+
+### 🕸️ Web & APIs
+`FastAPI` `Django` `JavaScript` `TypeScript`
+
+### 🛢️ Banco de Dados
+`PostgreSQL` `MongoDB` `Redis`
+
+### ⚙️ Outros
+`Linux` `Poetry` `SQLAlchemy` `Selenium` `PyAutoGUI` `Pydantic`
+
+---
+
+## 🌱 Interesses Atuais
+
+- Agentes Autônomos com IA
+- LLMs & RAGs
+- Otimização de pipelines de dados
+- Arquiteturas escaláveis
+
+---
+
+## 📫 Onde me encontrar
+
+- [LinkedIn](#https://www.linkedin.com/in/joao-rodriguess/)  
+- 📧 Email: joaopaulosilva39.jp@gmail.com
+
+---
+
+> “Automatizar o que é repetitivo, escalar o que há demanda, otimizar o que é gargalo e entender o que é complexo.”
