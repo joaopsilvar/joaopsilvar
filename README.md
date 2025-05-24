@@ -3,7 +3,6 @@
 ---
 
 ## 👨‍💻 Sobre mim
-
 Sou **Desenvolvedor Backend** com mais de **7 anos de experiência** no setor financeiro, especializado em **Python** e tecnologias para **backend**, **APIs robustas** e **pipelines de dados eficientes**.
 
 - 🗺️ De **Minas Gerais – Brasil**
@@ -12,11 +11,9 @@ Sou **Desenvolvedor Backend** com mais de **7 anos de experiência** no setor fi
 - 🚀 **Apaixonado por Tecnologia e Inovação**
 
 ---
-
 ## 🏗️ Atuando Atualmente
 
 Atualmente sou **Desenvolvedor Python** no **BTG Pactual**, atuando em soluções de backend voltadas para **gestão de portfólios**.
-
 ---
 
 ## 🛠️ Tecnologias e Ferramentas
